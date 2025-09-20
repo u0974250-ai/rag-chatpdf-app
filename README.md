@@ -182,4 +182,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [LangChain](https://github.com/hwchase17/langchain)
 - [Streamlit](https://github.com/streamlit/streamlit)
 - [Ollama](https://ollama.ai/)
-- This project is based on [chatpdf-rag-deepseek-r1](https://github.com/paquino11/chatpdf-rag-deepseek-r1) by [Pedro Aquino]. 
+- This project is based on the original work [chatpdf-rag-deepseek-r1](https://github.com/paquino11/chatpdf-rag-deepseek-r1) by Pedro Aquino, licensed under the MIT license, with the full license text included in his original repository.
